@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "gammatmlgcib"
+version = "0.0.2"
+authors = [
+  { name="Gustavo Chaparro", email="g.chaparro-maldonado21@imperial.ac.uk" },
+  { name="Ian H. Bell", email="ian.bell@nist.gov" }
+]
+description = "'ML models for estimated interaction parameter gammaT for multifluid thermodynamic models"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+#    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+#[tool.hatch.build.targets.wheel]
+#packages = ["src/foo"]
+
+[project.urls]
+Homepage = "https://github.com/pypa/sampleproject"
+Issues = "https://github.com/pypa/sampleproject/issues"

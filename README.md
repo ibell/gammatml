@@ -24,7 +24,7 @@ pip install .
 ```
 or 
 ```
-pip install git+git://github.com/ibell/gammatml.git
+pip install git+https://github.com/ibell/gammatml.git
 ```
 
 ## Example

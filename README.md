@@ -1,8 +1,9 @@
 # Machine-learned models for interaction parameters for multi-fluid models 
 
-## Guilty Parties
+## Contributors
 
 Gustavo Chaparro, Imperial College
+
 Ian Bell, formerly at NIST, now Thistle Consultants LLC
 
 (hence the gcib at the end of the package name)
